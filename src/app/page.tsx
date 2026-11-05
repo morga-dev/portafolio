@@ -1,4 +1,7 @@
 import Navbar from "@/components/layout/Navbar";
+import { About } from "@/components/sections/About";
+import { Hero } from "@/components/sections/Hero";
+import { Skills } from "@/components/sections/Skills";
 
 export default function Home() {
 	return (
@@ -12,7 +15,14 @@ export default function Home() {
 
 			<Navbar />
 
-			<main id="contenido" className="flex-1" />
+			<main
+				id="contenido"
+				className="flex-1 space-y-24 pb-24 md:space-y-32 md:pb-32"
+			>
+				<Hero />
+				<About />
+				<Skills />
+			</main>
 		</>
 	);
 }
