@@ -17,4 +17,3 @@ Portafolio digital minimalista, enfocado en mostrar algunos de mis proyectos y h
 - **Diseño Editorial:** Estética oscura, limpia y minimalista.
 - **Alto Rendimiento:** Construido con Server Components para una carga ultrarrápida.
 - **Sección de Proyectos:** Conexión y visualización de repositorios destacados.
-
