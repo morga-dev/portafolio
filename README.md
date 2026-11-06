@@ -2,7 +2,7 @@
 
 Portafolio digital minimalista, enfocado en mostrar algunos de mis proyectos y habilidades.
 
-🔗 **Sitio en vivo:** diego-morga
+🔗 **Sitio en vivo:** [diego-morga](https://diego-morga.vercel.app/)
 
 ## 🚀 Stack Tecnológico
 
