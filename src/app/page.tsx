@@ -18,7 +18,7 @@ export default function Home() {
 
 			<main
 				id="contenido"
-				className="flex-1 space-y-24 pb-24 md:space-y-32 md:pb-32"
+				className="flex-1 space-y-24 md:space-y-32"
 			>
 				<Hero />
 				<About />
